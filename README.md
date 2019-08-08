@@ -11,4 +11,4 @@ Font family:
 <b>Githack</b>
 
 
-<code> @import url(https://rawcdn.githack.com/mohammadr3z/CDN-Free-Font/67091b23cb702d7f37d119d7877a653e2187cbe4/font.css); </code>
+<code> @import url(https://rawcdn.githack.com/mohammadr3z/CDN-Free-Font/8787301272c414e5cc2e2de006002d042ba3cc12/font.css); </code>
